@@ -23,7 +23,7 @@
 ## Credits
 * Christine Osmak
 ## Test Instructions
-* N/A
+* Insomnia
 ## License
 * licensed under the [MIT License](LICENSE.txt)
 ## Questions
