@@ -14,10 +14,10 @@
 
 ## Installation Instructions
 * In order to success launch this web application, you will need to have the following installed in your local working environment:
-   1.Express
-  2.MySQL
-  3.Sequelize
-  4.Dotenv
+   <br>1.Express
+  <br>2.MySQL
+  <br>3.Sequelize
+  <br>4.Dotenv
 ## Contributor 
 * Google and Coding Bootcamp
 ## Credits
