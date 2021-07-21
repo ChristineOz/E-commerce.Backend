@@ -10,7 +10,7 @@
 7. [Questions](#questions)
 ## Project Description
 * This app is the backend portion of an E-Commerce website. Express.js was used for the server and MySQL for the database along with Sequelize as the ORM to run SQL models and queries. The SQL database includes tables for products, categories, tags, and product tags. 
-Video Walkthrough: https://drive.google.com/file/d/1VacAKfjPW4Xew9HGoV4_g1kSq0tSVIKe/view
+<br> <br>Video Walkthrough: https://drive.google.com/file/d/1VacAKfjPW4Xew9HGoV4_g1kSq0tSVIKe/view
 
 ## Installation Instructions
 * In order to success launch this web application, you will need to have the following installed in your local working environment:
